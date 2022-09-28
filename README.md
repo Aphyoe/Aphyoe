@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m PHYO AUNG SOE
 - 👀 I’m an IT Graduate currently living in Japan as a foreign student and looking for a developer job.
-- 🌱 I’m currently learning web dev and Javascripts on Udemy Frameworks and Google IT Automation with Python Professional Certificate on Coursera.
+- 🌱 I’m currently learning web dev and Javascripts Frameworks on Udemy and Google IT Automation with Python Professional Certificate on Coursera.
 - 💞️ I’m interested in Web Devlopment, Automation and AI using HTML, CSS, Javascript and Python.
 - 📫 My Email is 'work.phyoaungsoe@gmail.com'.
 
